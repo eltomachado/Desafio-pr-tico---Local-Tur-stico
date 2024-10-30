@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: "Open Sans", sans-serif;
+  max-width: 800px;
+  margin: 24px auto;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  margin-top: 40px;
+  margin-bottom: 1px
+}
+
+.banner-title, .section-title, .destination-title {
+  text-align: left;
+  color: #333;
+  padding-right: 40px;
+  
+}
+
+.banner-subtitle, .section-subtitle, .guideline {
+  font-size: 16px;
+  color: #E1624F;
+  font-weight: bold;
+  display: inline-block;
+  padding: 10px 0;
+  
+}
+
+p {
+  font-size: 16px;
+  margin-top: 1px
+}
+
+.intro {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.banner-image, .section-image, .destination-image {
+  width: 100%;
+  border-radius: 28px;
+  margin: 20px 0;
+}
+
+
+.guideline {
+  font-weight: bold;
+  color: #333;
+  margin: 10px 40px;
+  display: block;
+}
+.guideline-item {
+  color: #0C51A7;
+  font-weight: bold;
+}
+.guideline-label {
+  font-weight: bold;
+}
+.guideline-item1 {
+  color: #591B98;
+  font-weight: bold;
+}
+.guideline-label1{
+  font-weight: bold;
+}
+.guideline-item2{
+  font-weight: bold;
+  color: #E5245E;
+}
+.guideline-item3{
+  font-weight: bold;
+  color: #E95E10;
+}
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+.considerations {
+  text-align: center;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+}
+
+
+/* Rodapé */
+footer {
+  text-align: center;
+  font-size: 14px;
+  color: #777;
+  padding: 20px 0;
+}
