@@ -1,12 +1,12 @@
 # Desafio Turístico
 
-Este projeto é um desafio realizado pela Rocketseat, onde estou fazendo meu curso de Full-Stack. O desafio explora a cidade de Busan, na Coreia do Sul, apresentando informações sobre pontos turísticos, cultura e gastronomia local.
+Este projeto é um desafio realizado pela Rocketseat, onde estou fazendo meu curso de Full-Stack. O objetivo deste desafio é criar uma página web apresentando informações sobre a cidade de Busan, na Coreia do Sul, destacando suas atrações turísticas, cultura e gastronomia local.
 
 ## Índice
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Conteúdo](#conteúdo)
+- [Conteúdo da Página](#conteúdo-da-página)
 - [Instalação](#instalação)
 
 
@@ -19,14 +19,14 @@ Busan, a segunda maior cidade da Coreia do Sul, é conhecida por suas belas prai
 - HTML
 - CSS
 
-## Conteúdo
+## Conteúdo da Página
 
-- **Introdução**
-- **Atrações**
+- **Introdução** com destaque para a cidade
+- **Atrações**:
   - Templo Haedong Yonggungsa
   - Templo Beomeo-sa
   - Parque Yongdusan
-- **Considerações Finais**
+- **Considerações Finais** sobre a experiência em Busan
 
 ## Instalação
 
