@@ -10,7 +10,7 @@ Este projeto é um desafio realizado pela Rocketseat, onde estou fazendo meu cur
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Sobre
 
